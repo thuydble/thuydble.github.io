@@ -1,7 +1,3 @@
-layout: https://thuydble.github.io
-title: "MRI Pulse Sequences"
-permalink: /MRI/
-
 
 # thuydble.github.io
 
