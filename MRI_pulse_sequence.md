@@ -1,4 +1,4 @@
-layout: https://thuydble.github.io
+layout: thuydble.github.io
 title: "MRI Pulse Sequences"
 permalink: /MRI/
 
